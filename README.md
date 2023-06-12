@@ -1,4 +1,4 @@
-![BioStdies](https://wwwdev.ebi.ac.uk/biostudies/images/logo.png "BioStudies")
+![BioStdies](https://www.ebi.ac.uk/biostudies/images/logo.png "BioStudies")
 
 The [BioStudies database](https://www.ebi.ac.uk/biostudies) holds descriptions of biological studies, links to data from these studies in other databases at [EMBL-EBI](https://www.ebi.ac.uk) or outside, as well as data that do not fit in the structured archives at EMBL-EBI. The database accepts submissions via an online tool, or in a simple tab-delimited format, PageTab. It also enables authors to submit supplementary information and link to it from the publication.
 
